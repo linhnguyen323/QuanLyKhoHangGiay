@@ -43,3 +43,12 @@ F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.csproj
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.dll
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\bin\Debug\DAL.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\bin\Debug\DAL.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\bin\Debug\DTO.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\bin\Debug\DTO.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\DAL\obj\Debug\DAL.pdb

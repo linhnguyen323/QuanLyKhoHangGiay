@@ -53,3 +53,14 @@ F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.csproj
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.dll
 F:\ThucTapNhom\Project_TTNhom\Project\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\BLL.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\BLL.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\DAL.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\DTO.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\DAL.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\bin\Debug\DTO.pdb
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.dll
+F:\QuanLyKho\QuanLyKhoHangGiay\QuanLyKhoHangGiay\BLL\obj\Debug\BLL.pdb
